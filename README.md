@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/Sipalingtesnet/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f-entry-ris/rank.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 [![reward](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/Sipalingtesnet/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f-entry-ris/reward.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 
-**Line:** "So... four floors left in this lift and my only cached topic is firmware. Do you want firmware? Please want firmware."
+**Line:** "So... four floors left in this lift and my only cached topic is firmware. Want firmware? Please want firmware."
 
-A robot reaches for the one conversation topic it has in memory, offers it, gets no answer, and then asks again — the small metal box wins.
+A robot reaches for the one conversation topic it has in memory, offers it, gets no answer, and asks again as a plea — the small metal box wins.
 
 ## Run it
 

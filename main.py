@@ -11,7 +11,7 @@ from pathlib import Path
 # One line, under 200 characters, written with no trailing newline.
 LINE = (
     "So... four floors left in this lift and my only cached topic is firmware. "
-    "Do you want firmware? Please want firmware."
+    "Want firmware? Please want firmware."
 )
 
 
